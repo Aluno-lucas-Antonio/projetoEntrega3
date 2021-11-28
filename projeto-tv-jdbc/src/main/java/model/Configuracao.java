@@ -11,6 +11,7 @@ public class Configuracao {
 	public void setEmail(String email) {
 		this.email = email;
 	}
+	
 	public String getSenha() {
 		return senha;
 	}
@@ -27,6 +28,7 @@ public class Configuracao {
 	public String toString() {
 		return "Configuracao [email=" + email + ", senha=" + senha + ", NomeUsuario=" + NomeUsuario + "]";
 	}
+	
 	
 	
 	
