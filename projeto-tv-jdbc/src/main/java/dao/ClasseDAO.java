@@ -8,6 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import conexaojdbc.SingleConnection;
+import model.Configuracao;
 import model.Televisao;
 
 public class ClasseDAO {
@@ -150,6 +151,8 @@ public class ClasseDAO {
    		}
    		
    	}
+   	 
+   	 }
 
-   }
+   
 
